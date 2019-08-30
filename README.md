@@ -1,5 +1,5 @@
 # Welcome to Vertical-Xenoware
-<img src="VX.png" alt="VX" width="200"/>
+<img src="VX.png" alt="VX" width="280"/>
 
 This organization aims to advance the right of privacy, cryptology and security
 (We are not a Hacker Group!)
